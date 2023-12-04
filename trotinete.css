@@ -1,0 +1,10 @@
+.card {
+  background-color: #fff; /* Adăugați culoare de fundal pentru cartele */
+}
+
+.available-text {
+  background-color:green; /* Adăugați culoare de fundal pentru textul "Disponibile 3 buc" */
+  color: #fff; /* Schimbați culoarea textului pentru a fi vizibil pe fundalul negru */
+  padding: 10px; /* Adăugați puțin spațiu în jurul textului */
+  text-align: center; /* Centrare text în interiorul div-ului */
+}
